@@ -1,5 +1,5 @@
 # tapshyrma_1
-[]((https://Nadyr86)]
+[]((https://www.Nadyr86.com)]
 ![](https://avatars.githubusercontent.com/u/100078516?v=4)
 
 A new Flutter project.
