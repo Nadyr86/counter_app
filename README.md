@@ -1,6 +1,5 @@
 # tapshyrma_1
-
-A new Flutter project.
+![github](https://avatars.githubusercontent.com/u/100078516?s=400&u=919996f440df737ae9c6c92952899904f279eaad&v=4)
 
 ## Getting Started
 
