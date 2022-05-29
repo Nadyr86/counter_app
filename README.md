@@ -1,5 +1,8 @@
 # tapshyrma_1
-![github](https://avatars.githubusercontent.com/u/100078516?s=400&u=919996f440df737ae9c6c92952899904f279eaad&v=4)
+[GitHub](https//www.github/Nadyr86]
+![github](https://avatars.githubusercontent.com/u/100078516?v=4)
+
+A new Flutter project.
 
 ## Getting Started
 
